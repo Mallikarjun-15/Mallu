@@ -1,4 +1,4 @@
 # Mallu
 this is my first git res
 <br>
-author mallu
+author - mallu ratkal
